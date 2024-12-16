@@ -1,0 +1,38 @@
+===========Static========================
+
+staticni metod, class,korstruktor,funksya,propertilarga ishlatsa bolad
+
+static ni odim class nomi bn chaqiriladi, non ststic bolsa ham
+
+class static busa undan obyekt ob bumed
+
+string interpul
+
+static classga tegishgli 
+non static objectga
+ 
+
+
+======Abstraction & Interface==============
+
+interface 100 % abstrakt class unga budy yozilmaydi
+
+Abstraction - mavhumlik, object ob bumedi, asosiy maqsadi kodni ichidagi qiyinchilikni yashirish uchun foydalaniladi
+
+
+interface - 100% abstract, shartnoma, undagi metodlarni bodisi bumedi faqat abstrakti buladi, 
+
+ularni farqlari = interfaceni Ichida hamma narsa abstract buladi, abstractni Ichida esa 100% abstract bolmagan narsalarni yozsa ham boladi virtual kabi,
+
+
+==============encapsulation==================
+
+Hamma fayllarda inkapsulyuatsiya boladi	
+
+
+
+
+
+
+
+
