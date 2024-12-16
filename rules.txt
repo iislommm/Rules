@@ -1,3 +1,27 @@
+==============OOP===================
+
+OOP objectga yonaltirilgan dasturlash tili
+
+OOP bu paradigma, project yaratishning bir yo'li, bu yolda dsassturda objectlar va class lar boladi
+
+========REF===========OUT==========
+
+REF funksiya TASHQARUSUDDAN qiymt beriladi
+OUT funksiya ICHIDAN qiymat beriladi
+
+ishlash qoidaasi : REf ga 	FUNKSIYA TASHQARISIDA qiymat berilishi SHART lekn FUNKSIYA ICHIDA o'zgarishi SHART EMAS
+
+OUT shuni teskarisi, FUNKSIYA TASHQARISIDA qiymat berish SHATR EMAS lekn lekn FUNKSIYA ICHIDA ozgarishi SHART
+
+ayrm tiplardan faqri undagi qiymatni TIPINI O'ZGARTIRSA bolad,
+
+IShlatilishi  : funksiya ichidagi loclaniy ozgaruvchilarni boshqa funksiyalardaxam ozgarishi uchun ishlatiladi
+
+
+
+
+
+
 ===========Static========================
 
 staticni metod, class,korstruktor,funksya,propertilarga ishlatsa bolad
