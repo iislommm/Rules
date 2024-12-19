@@ -17,8 +17,9 @@ ayrm tiplardan faqri undagi qiymatni TIPINI O'ZGARTIRSA bolad,
 
 IShlatilishi  : funksiya ichidagi loclaniy ozgaruvchilarni boshqa funksiyalardaxam ozgarishi uchun ishlatiladi
 
+==============OBJECT====================
 
-
+Biz korb turadigan hamma narsa object va ularni yaratib beruvchi classlari yani modellari (qoliblari) bo'ladi
 
 
 
@@ -35,6 +36,9 @@ string interpul
 static classga tegishgli 
 non static objectga
  
+staticni ichida faqat statoc ishledi non staticni ichida esa ikkoviyam ishloradi
+
+static class nomi bilan chaqirib ishlatiladi 
 
 
 ======Abstraction & Interface==============
@@ -53,10 +57,30 @@ ularni farqlari = interfaceni Ichida hamma narsa abstract buladi, abstractni Ich
 
 Hamma fayllarda inkapsulyuatsiya boladi	
 
+Ayrm malumotlar tashqariga chiqib ketmasligi uchun encapsulyatsiya qlnadi
 
 
 
 
 
+
+
+
+
+
+
+
+front edn bn Enum dto gaplashadi
+
+
+
+
+public/private - access modifier
+
+
+
+casting (o'tgazish)ikihil boladi - implisit() va explisit()
+IMPLISIT - majburlamasdan yani toridan tori tipina otgazad
+EXPLISIT - tipini majburlab otgazish
 
 
